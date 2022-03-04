@@ -4,7 +4,12 @@ module.exports = {
         "./components/**/*.{js,ts,jsx,tsx}",
     ],
     theme: {
-        extend: {},
+        extend: {
+            fontFamily: {
+                hk: ["HK Grotesk", "sans-serif"],
+                mont: ["Montserrat", "sans-serif"],
+            },
+        },
     },
     plugins: [],
 };

@@ -1,0 +1,927 @@
+[
+    {
+        "name": "Dhruv Bakshi",
+        "karigar-image": "location/karigars/potters/potter{i}.png",
+        "occ": "potter",
+        "email": "potter1@gmail.com",
+        "number": "2086465729",
+        "location": "google map cords",
+        "profile": "I am Dhruv bakshi and I make beautiful pots",
+        "tags": [
+            "potter",
+            "potterist",
+            "earthen-pots",
+            "earthen pots",
+            "clay pots",
+            "flower pots",
+            "plant pots"
+        ]
+    },
+
+    {
+        "name": "Raghav Gupta",
+        "karigar-image": "location/karigars/potters/potter{i}.png",
+        "occ": "potter",
+        "email": "potter2@gmail.com",
+        "number": "2086465229",
+        "location": "google map cords",
+        "profile": "Raghav Gupta here, I can make earthen pots for your needs",
+        "tags": [
+            "potter",
+            "potterist",
+            "earthen-pots",
+            "earthen pots",
+            "clay pots",
+            "flower pots",
+            "plant pots"
+        ]
+    },
+
+    {
+        "name": "Arushi Kumari",
+        "karigar-image": "location/karigars/potters/potter{i}.png",
+        "occ": "potter",
+        "email": "potter3@gmail.com",
+        "number": "2086465429",
+        "location": "google map cords",
+        "profile": "I am Arushi Kumari. I have been making pots for a long time",
+        "tags": [
+            "potter",
+            "potterist",
+            "earthen-pots",
+            "earthen pots",
+            "clay pots",
+            "flower pots",
+            "plant pots"
+        ]
+    },
+
+    {
+        "name": "Urmila Bihat",
+        "karigar-image": "location/karigars/potters/potter{i}.png",
+        "occ": "potter",
+        "email": "potter4@gmail.com",
+        "number": "9086465429",
+        "location": "google map cords",
+        "profile": "I am Urmila and I have the skill to make earthen pots",
+        "tags": [
+            "potter",
+            "potterist",
+            "earthen-pots",
+            "earthen pots",
+            "clay pots",
+            "flower pots",
+            "plant pots"
+        ]
+    },
+
+    {
+        "name": "Urmila Bihat",
+        "karigar-image": "location/karigars/potters/potter{i}.png",
+        "occ": "potter",
+        "email": "potter4@gmail.com",
+        "number": "9086465429",
+        "location": "google map cords",
+        "profile": "I am Urmila and I have the skill to make earthen pots",
+        "tags": [
+            "potter",
+            "potterist",
+            "earthen-pots",
+            "earthen pots",
+            "clay pots",
+            "flower pots",
+            "plant pots"
+        ]
+    },
+
+    {
+        "name": "Vishal Bakshi",
+        "karigar-image": "location/karigars/potters/potter{i}.png",
+        "occ": "potter",
+        "email": "potter5@gmail.com",
+        "number": "9086465429",
+        "location": "google map cords",
+        "profile": "Hello I am Vishal and I can make pottery work",
+        "tags": [
+            "potter",
+            "potterist",
+            "earthen-pots",
+            "earthen pots",
+            "clay pots",
+            "flower pots",
+            "plant pots"
+        ]
+    },
+
+    {
+        "name": "Badhrima Jain",
+        "karigar-image": "location/karigars/potters/potter{i}.png",
+        "occ": "potter",
+        "email": "potter6@gmail.com",
+        "number": "9088465429",
+        "location": "google map cords",
+        "profile": "I am Badhrima and I have the skill to make earthen pots",
+        "tags": [
+            "potter",
+            "potterist",
+            "earthen-pots",
+            "earthen pots",
+            "clay pots",
+            "flower pots",
+            "plant pots"
+        ]
+    },
+
+    {
+        "name": "Rajeev Kumar shankar",
+        "karigar-image": "location/karigars/potters/potter{i}.png",
+        "occ": "potter",
+        "email": "potter7@gmail.com",
+        "number": "9086469429",
+        "location": "google map cords",
+        "profile": "I am Rajeev Kumar and I have the skill to make earthen pots",
+        "tags": [
+            "potter",
+            "potterist",
+            "earthen-pots",
+            "earthen pots",
+            "clay pots",
+            "flower pots",
+            "plant pots"
+        ]
+    },
+
+    {
+        "name": "Shelly bakshi",
+        "karigar-image": "location/karigars/potters/potter{i}.png",
+        "occ": "potter",
+        "email": "potter9@gmail.com",
+        "number": "9086469459",
+        "location": "google map cords",
+        "profile": "I am Shelly and I can make beautiful clay and earthen pots",
+        "tags": [
+            "potter",
+            "potterist",
+            "earthen-pots",
+            "earthen pots",
+            "clay pots",
+            "flower pots",
+            "plant pots"
+        ]
+    },
+
+    {
+        "name": "Gitansh Mehta",
+        "karigar-image": "location/karigars/potters/potter{i}.png",
+        "occ": "potter",
+        "email": "potter11@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Gitansh and I wil make pots",
+        "tags": [
+            "potter",
+            "potterist",
+            "earthen-pots",
+            "earthen pots",
+            "clay pots",
+            "flower pots",
+            "plant pots"
+        ]
+    },
+
+    {
+        "name": "Rupali Kumari",
+        "karigar-image": "location/karigars/potters/potter{i}.png",
+        "occ": "potter",
+        "email": "potter12@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Rupali and I can make pots",
+        "tags": [
+            "potter",
+            "potterist",
+            "earthen-pots",
+            "earthen pots",
+            "clay pots",
+            "flower pots",
+            "plant pots"
+        ]
+    },
+
+    {
+        "name": "Ayush Jhangra",
+        "karigar-image": "location/karigars/potters/potter{i}.png",
+        "occ": "potter",
+        "email": "potter13@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Ayush and I can make beautiful earthen pots",
+        "tags": [
+            "potter",
+            "potterist",
+            "earthen-pots",
+            "earthen pots",
+            "clay pots",
+            "flower pots",
+            "plant pots"
+        ]
+    },
+
+    {
+        "name": "Bhoomik",
+        "karigar-image": "location/karigars/potters/potter{i}.png",
+        "occ": "potter",
+        "email": "potter14@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Bhoomik and I can make pots",
+        "tags": [
+            "potter",
+            "potterist",
+            "earthen-pots",
+            "earthen pots",
+            "clay pots",
+            "flower pots",
+            "plant pots"
+        ]
+    },
+
+    {
+        "name": "saillesh ",
+        "karigar-image": "location/karigars/potters/potter{i}.png",
+        "occ": "potter",
+        "email": "potter15@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Saillesh and I can make pots",
+        "tags": [
+            "potter",
+            "potterist",
+            "earthen-pots",
+            "earthen pots",
+            "clay pots",
+            "flower pots",
+            "plant pots"
+        ]
+    },
+
+    {
+        "name": "Babloo Kumar",
+        "karigar-image": "location/karigars/potters/potter1.png",
+        "occ": "flourist",
+        "email": "flourist1@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Babloo Kumar and I sell flowers",
+        "tags": [
+            "flowers",
+            "fresh flowers",
+            "flourist",
+            "rose",
+            "lily",
+            "tulip",
+            "garland",
+            "flower decorations",
+            "bouquets",
+            "bouquet",
+            "flower bouquets"
+        ]
+    },
+
+    {
+        "name": "Ridhi Kumari",
+        "karigar-image": "location/karigars/potters/potter2.png",
+        "occ": "flourist",
+        "email": "flourist2@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Ridhi Kumari and I sell flowers",
+        "tags": [
+            "flowers",
+            "fresh flowers",
+            "flourist",
+            "rose",
+            "lily",
+            "tulip",
+            "garland",
+            "flower decorations",
+            "bouquets",
+            "bouquet",
+            "flower bouquets"
+        ]
+    },
+
+    {
+        "name": "Panshul Kumar",
+        "karigar-image": "location/karigars/potters/potter3.png",
+        "occ": "flourist",
+        "email": "flourist3@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Panshul Kumar and I sell flowers",
+        "tags": [
+            "flowers",
+            "fresh flowers",
+            "flourist",
+            "rose",
+            "lily",
+            "tulip",
+            "garland",
+            "flower decorations",
+            "bouquets",
+            "bouquet",
+            "flower bouquets"
+        ]
+    },
+
+    {
+        "name": "Shelly Bakshi",
+        "karigar-image": "location/karigars/potters/potter4.png",
+        "occ": "flourist",
+        "email": "flourist4@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Shelly Bakshi and I sell flowers",
+        "tags": [
+            "flowers",
+            "fresh flowers",
+            "flourist",
+            "rose",
+            "lily",
+            "tulip",
+            "garland",
+            "flower decorations",
+            "bouquets",
+            "bouquet",
+            "flower bouquets"
+        ]
+    },
+
+    {
+        "name": "Saket Juungla",
+        "karigar-image": "location/karigars/potters/potter5.png",
+        "occ": "flourist",
+        "email": "flourist5@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Saket Juungla and I sell flowers",
+        "tags": [
+            "flowers",
+            "fresh flowers",
+            "flourist",
+            "rose",
+            "lily",
+            "tulip",
+            "garland",
+            "flower decorations",
+            "bouquets",
+            "bouquet",
+            "flower bouquets"
+        ]
+    },
+
+    {
+        "name": "Shobhit Kumar Singh",
+        "karigar-image": "location/karigars/potters/potter6.png",
+        "occ": "flourist",
+        "email": "flourist6@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Shobhit Kumar Singh and I sell flowers",
+        "tags": [
+            "flowers",
+            "fresh flowers",
+            "flourist",
+            "rose",
+            "lily",
+            "tulip",
+            "garland",
+            "flower decorations",
+            "bouquets",
+            "bouquet",
+            "flower bouquets"
+        ]
+    },
+
+    {
+        "name": "Vishal Bakshi",
+        "karigar-image": "location/karigars/potters/potter7.png",
+        "occ": "flourist",
+        "email": "flourist7@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Vishal Bakshi and I sell flowers",
+        "tags": [
+            "flowers",
+            "fresh flowers",
+            "flourist",
+            "rose",
+            "lily",
+            "tulip",
+            "garland",
+            "flower decorations",
+            "bouquets",
+            "bouquet",
+            "flower bouquets"
+        ]
+    },
+
+    {
+        "name": "Gopi Nath",
+        "karigar-image": "location/karigars/potters/potter8.png",
+        "occ": "flourist",
+        "email": "flourist8@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Gopi Nath and I sell flowers",
+        "tags": [
+            "flowers",
+            "fresh flowers",
+            "flourist",
+            "rose",
+            "lily",
+            "tulip",
+            "garland",
+            "flower decorations",
+            "bouquets",
+            "bouquet",
+            "flower bouquets"
+        ]
+    },
+
+    {
+        "name": "Prajal Yadav",
+        "karigar-image": "location/karigars/potters/potter9.png",
+        "occ": "flourist",
+        "email": "flourist9@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Prajal Yadav and I sell flowers",
+        "tags": [
+            "flowers",
+            "fresh flowers",
+            "flourist",
+            "rose",
+            "lily",
+            "tulip",
+            "garland",
+            "flower decorations",
+            "bouquets",
+            "bouquet",
+            "flower bouquets"
+        ]
+    },
+
+    {
+        "name": "Prakriti Bakshi",
+        "karigar-image": "location/karigars/potters/potter10.png",
+        "occ": "flourist",
+        "email": "flourist10@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Prakriti Bakshi and I sell flowers",
+        "tags": [
+            "flowers",
+            "fresh flowers",
+            "flourist",
+            "rose",
+            "lily",
+            "tulip",
+            "garland",
+            "flower decorations",
+            "bouquets",
+            "bouquet",
+            "flower bouquets"
+        ]
+    },
+
+    {
+        "name": "Tomar Kumle",
+        "karigar-image": "location/karigars/potters/potter11.png",
+        "occ": "flourist",
+        "email": "flourist11@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Tomar Kumle and I sell flowers",
+        "tags": [
+            "flowers",
+            "fresh flowers",
+            "flourist",
+            "rose",
+            "lily",
+            "tulip",
+            "garland",
+            "flower decorations",
+            "bouquets",
+            "bouquet",
+            "flower bouquets"
+        ]
+    },
+
+    {
+        "name": "Manisha Kumari Devi",
+        "karigar-image": "location/karigars/potters/potter12.png",
+        "occ": "flourist",
+        "email": "flourist12@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Manisha Kumari Devi and I sell flowers",
+        "tags": [
+            "flowers",
+            "fresh flowers",
+            "flourist",
+            "rose",
+            "lily",
+            "tulip",
+            "garland",
+            "flower decorations",
+            "bouquets",
+            "bouquet",
+            "flower bouquets"
+        ]
+    },
+
+    {
+        "name": "iishvar jagga",
+        "karigar-image": "location/karigars/potters/potter13.png",
+        "occ": "flourist",
+        "email": "flourist13@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is iishvar jagga and I sell flowers",
+        "tags": [
+            "flowers",
+            "fresh flowers",
+            "flourist",
+            "rose",
+            "lily",
+            "tulip",
+            "garland",
+            "flower decorations",
+            "bouquets",
+            "bouquet",
+            "flower bouquets"
+        ]
+    },
+
+    {
+        "name": "Bhavesh Singh",
+        "karigar-image": "location/karigars/potters/potter14.png",
+        "occ": "flourist",
+        "email": "flourist14@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Bhavesh Singh and I sell flowers",
+        "tags": [
+            "flowers",
+            "fresh flowers",
+            "flourist",
+            "rose",
+            "lily",
+            "tulip",
+            "garland",
+            "flower decorations",
+            "bouquets",
+            "bouquet",
+            "flower bouquets"
+        ]
+    },
+
+    {
+        "name": "Ramila Kumari",
+        "karigar-image": "location/karigars/potters/potter15.png",
+        "occ": "flourist",
+        "email": "flourist15@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Ramila Kumari and I sell flowers",
+        "tags": [
+            "flowers",
+            "fresh flowers",
+            "flourist",
+            "rose",
+            "lily",
+            "tulip",
+            "garland",
+            "flower decorations",
+            "bouquets",
+            "bouquet",
+            "flower bouquets"
+        ]
+    },
+
+    {
+        "name": "Babloo Kumar",
+        "karigar-image": "location/karigars/potters/potter1.png",
+        "occ": "Handicrafts Artist",
+        "email": "handicratArtist1@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Babloo Kumar and I can work and sell handicrafts",
+        "tags": [
+            "artisans",
+            "artisan",
+            "handicrafts",
+            "hand crafted goods",
+            "hand crafted items",
+            "hand work",
+            "artisan work",
+            "creative goods",
+            "hand created goods"
+        ]
+    },
+
+    {
+        "name": "Ridhi Kumari",
+        "karigar-image": "location/karigars/potters/potter2.png",
+        "occ": "Handicrafts Artist",
+        "email": "handicratArtist2@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Ridhi Kumari and I can work and sell handicrafts",
+        "tags": [
+            "artisans",
+            "artisan",
+            "handicrafts",
+            "hand crafted goods",
+            "hand crafted items",
+            "hand work",
+            "artisan work",
+            "creative goods",
+            "hand created goods"
+        ]
+    },
+
+    {
+        "name": "Panshul Kumar",
+        "karigar-image": "location/karigars/potters/potter3.png",
+        "occ": "Handicrafts Artist",
+        "email": "handicratArtist3@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Panshul Kumar and I can work and sell handicrafts",
+        "tags": [
+            "artisans",
+            "artisan",
+            "handicrafts",
+            "hand crafted goods",
+            "hand crafted items",
+            "hand work",
+            "artisan work",
+            "creative goods",
+            "hand created goods"
+        ]
+    },
+
+    {
+        "name": "Shelly Bakshi",
+        "karigar-image": "location/karigars/potters/potter4.png",
+        "occ": "Handicrafts Artist",
+        "email": "handicratArtist4@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Shelly Bakshi and I can work and sell handicrafts",
+        "tags": [
+            "artisans",
+            "artisan",
+            "handicrafts",
+            "hand crafted goods",
+            "hand crafted items",
+            "hand work",
+            "artisan work",
+            "creative goods",
+            "hand created goods"
+        ]
+    },
+
+    {
+        "name": "Saket Juungla",
+        "karigar-image": "location/karigars/potters/potter5.png",
+        "occ": "Handicrafts Artist",
+        "email": "handicratArtist5@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Saket Juungla and I can work and sell handicrafts",
+        "tags": [
+            "artisans",
+            "artisan",
+            "handicrafts",
+            "hand crafted goods",
+            "hand crafted items",
+            "hand work",
+            "artisan work",
+            "creative goods",
+            "hand created goods"
+        ]
+    },
+
+    {
+        "name": "Shobhit Kumar Singh",
+        "karigar-image": "location/karigars/potters/potter6.png",
+        "occ": "Handicrafts Artist",
+        "email": "handicratArtist6@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Shobhit Kumar Singh and I can work and sell handicrafts",
+        "tags": [
+            "artisans",
+            "artisan",
+            "handicrafts",
+            "hand crafted goods",
+            "hand crafted items",
+            "hand work",
+            "artisan work",
+            "creative goods",
+            "hand created goods"
+        ]
+    },
+
+    {
+        "name": "Vishal Bakshi",
+        "karigar-image": "location/karigars/potters/potter7.png",
+        "occ": "Handicrafts Artist",
+        "email": "handicratArtist7@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Vishal Bakshi and I can work and sell handicrafts",
+        "tags": [
+            "artisans",
+            "artisan",
+            "handicrafts",
+            "hand crafted goods",
+            "hand crafted items",
+            "hand work",
+            "artisan work",
+            "creative goods",
+            "hand created goods"
+        ]
+    },
+
+    {
+        "name": "Gopi Nath",
+        "karigar-image": "location/karigars/potters/potter8.png",
+        "occ": "Handicrafts Artist",
+        "email": "handicratArtist8@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Gopi Nath and I can work and sell handicrafts",
+        "tags": [
+            "artisans",
+            "artisan",
+            "handicrafts",
+            "hand crafted goods",
+            "hand crafted items",
+            "hand work",
+            "artisan work",
+            "creative goods",
+            "hand created goods"
+        ]
+    },
+
+    {
+        "name": "Prajal Yadav",
+        "karigar-image": "location/karigars/potters/potter9.png",
+        "occ": "Handicrafts Artist",
+        "email": "handicratArtist9@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Prajal Yadav and I can work and sell handicrafts",
+        "tags": [
+            "artisans",
+            "artisan",
+            "handicrafts",
+            "hand crafted goods",
+            "hand crafted items",
+            "hand work",
+            "artisan work",
+            "creative goods",
+            "hand created goods"
+        ]
+    },
+
+    {
+        "name": "Prakriti Bakshi",
+        "karigar-image": "location/karigars/potters/potter10.png",
+        "occ": "Handicrafts Artist",
+        "email": "handicratArtist10@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Prakriti Bakshi and I can work and sell handicrafts",
+        "tags": [
+            "artisans",
+            "artisan",
+            "handicrafts",
+            "hand crafted goods",
+            "hand crafted items",
+            "hand work",
+            "artisan work",
+            "creative goods",
+            "hand created goods"
+        ]
+    },
+
+    {
+        "name": "Tomar Kumle",
+        "karigar-image": "location/karigars/potters/potter11.png",
+        "occ": "Handicrafts Artist",
+        "email": "handicratArtist11@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Tomar Kumle and I can work and sell handicrafts",
+        "tags": [
+            "artisans",
+            "artisan",
+            "handicrafts",
+            "hand crafted goods",
+            "hand crafted items",
+            "hand work",
+            "artisan work",
+            "creative goods",
+            "hand created goods"
+        ]
+    },
+
+    {
+        "name": "Manisha Kumari Devi",
+        "karigar-image": "location/karigars/potters/potter12.png",
+        "occ": "Handicrafts Artist",
+        "email": "handicratArtist12@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Manisha Kumari Devi and I can work and sell handicrafts",
+        "tags": [
+            "artisans",
+            "artisan",
+            "handicrafts",
+            "hand crafted goods",
+            "hand crafted items",
+            "hand work",
+            "artisan work",
+            "creative goods",
+            "hand created goods"
+        ]
+    },
+
+    {
+        "name": "iishvar jagga",
+        "karigar-image": "location/karigars/potters/potter13.png",
+        "occ": "Handicrafts Artist",
+        "email": "handicratArtist13@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is iishvar jagga and I can work and sell handicrafts",
+        "tags": [
+            "artisans",
+            "artisan",
+            "handicrafts",
+            "hand crafted goods",
+            "hand crafted items",
+            "hand work",
+            "artisan work",
+            "creative goods",
+            "hand created goods"
+        ]
+    },
+
+    {
+        "name": "Bhavesh Singh",
+        "karigar-image": "location/karigars/potters/potter14.png",
+        "occ": "Handicrafts Artist",
+        "email": "handicratArtist14@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Bhavesh Singh and I can work and sell handicrafts",
+        "tags": [
+            "artisans",
+            "artisan",
+            "handicrafts",
+            "hand crafted goods",
+            "hand crafted items",
+            "hand work",
+            "artisan work",
+            "creative goods",
+            "hand created goods"
+        ]
+    },
+
+    {
+        "name": "Ramila Kumari",
+        "karigar-image": "location/karigars/potters/potter15.png",
+        "occ": "Handicrafts Artist",
+        "email": "handicratArtist15@gmail.com",
+        "number": "9086269429",
+        "location": "google map cords",
+        "profile": "My name is Ramila Kumari and I can work and sell handicrafts",
+        "tags": [
+            "artisans",
+            "artisan",
+            "handicrafts",
+            "hand crafted goods",
+            "hand crafted items",
+            "hand work",
+            "artisan work",
+            "creative goods",
+            "hand created goods"
+        ]
+    }
+]
