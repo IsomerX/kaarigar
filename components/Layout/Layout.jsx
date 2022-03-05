@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import { useRouter } from "next/router";
 
 const Layout = ({ children }) => {
@@ -31,7 +32,9 @@ const Layout = ({ children }) => {
                         height={20}
                         width={27}
                     />
+                    <Link href="/login">
                     Login as Kaarigar / Ghrahak
+                    </Link>
                 </div>
             </header>
             {children}
