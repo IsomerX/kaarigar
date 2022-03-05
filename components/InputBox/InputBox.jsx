@@ -5,6 +5,10 @@ const InputBox = ({ text }) => {
     const router = useRouter();
     const submitHandler = (e) => {
         e.preventDefault();
+        if(value === ""){
+            alert("Please enter a valid search term");
+            return;
+        }
         router.push({
             pathname: `/search/${value}`,
         })

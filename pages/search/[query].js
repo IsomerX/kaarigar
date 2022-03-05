@@ -2,11 +2,14 @@ import { useRouter } from "next/router";
 import Layout from "../../components/Layout/Layout";
 import SearchCard from "../../components/SearchCard/SearchCard";
 import Data from "../../public/DATA.json";
-import Image from "next/image"
+import Image from "next/image";
 
 const Search = () => {
     const r = useRouter();
     const name = r.query.query;
+    if (name === undefined) {
+        return <h1>404</h1>;
+    }
     const heading = name.charAt(0).toUpperCase() + name.slice(1);
     const other = Data.filter((item) => {
         return item.tags.includes(name.toLowerCase()) || item.name == name;
@@ -15,9 +18,8 @@ const Search = () => {
         return <SearchCard key={item.profile} data={item} />;
     });
 
-    if(other.length == 0)
-    {
-        putter = <h1 className="mt-4 text-lg font-bold">No Results Found!</h1>
+    if (other.length == 0) {
+        putter = <h1 className="mt-4 text-lg font-bold">No Results Found!</h1>;
     }
 
     return (
@@ -30,7 +32,12 @@ const Search = () => {
                 <div className="grid gap-4 w-full lg:w-2/3">{putter}</div>
             </div>
             <div className="fixed right-[5%] top-1/2 -translate-y-1/2 hidden xl:block">
-                <Image src="/images/gifts.png" width={373} height={296}  alt="gifts"/>
+                <Image
+                    src="/images/gifts.png"
+                    width={373}
+                    height={296}
+                    alt="gifts"
+                />
             </div>
         </Layout>
     );
