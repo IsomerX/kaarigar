@@ -23,7 +23,7 @@ export default function Home() {
                         Choose from the most popular ones
                     </span>
                     <div className="flex items-center justify-center gap-4">
-                        <Tabs text="Flourist" />
+                        <Tabs text="Florist" />
                         <Tabs text="Potter" />
                         <Tabs text="Handicrafts" />
                     </div>
